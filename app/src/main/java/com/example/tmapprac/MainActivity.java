@@ -304,7 +304,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        getData();  // 가로등 위치 정보 불러오고
+        getData();  // 가로등 위치 정보 불러오고 asdf
 
         setContentView(R.layout.activity_main);
 
